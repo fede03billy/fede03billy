@@ -4,8 +4,6 @@
 
 👀 I’m interested in JavaScript, React.js, Node.js, Next.js and a lot of other stuff I won't mention here
 
-🌱 I’m currently learning Rust
-
 📫 You can write me here: fede03billy@gmail.com
 
 ---
